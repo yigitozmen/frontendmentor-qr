@@ -11,9 +11,15 @@
     background-color: #D6E1F0;
     color: #000;
   }
+  main {
+    height: 100vh; /* viewport yüksekliği kadar */
+    display: flex;
+    justify-content: center; /* yatayda ortala */
+    align-items: center; /* dikeyde ortala */
+  }
+  
   
   .card {
-    margin: 50px auto; 
     background-color: #fff;
     padding: 16px 16px 40px 16px;
     width: 320px;

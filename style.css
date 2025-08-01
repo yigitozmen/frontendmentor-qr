@@ -35,7 +35,7 @@
   .card-content {
     margin: 0px 16px 0px 16px;
   }
-  .card-content > h2 {
+  .card-content > h1 {
     color: #1f314f;
     margin-top: 24px;
     font-size: 22px;

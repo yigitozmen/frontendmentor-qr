@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![alt text](<Screenshot at 2025-08-01 14-55-45-1.png>)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/yigitozmen/frontendmentor-qr)
+- Live Site URL: [Add live site URL here](https://glistening-chaja-977099.netlify.app/)
 
 ## My process
 

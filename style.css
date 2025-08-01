@@ -23,7 +23,6 @@
     background-color: #fff;
     padding: 16px 16px 40px 16px;
     width: 320px;
-    
     border-radius: 20px;
     box-shadow: 0 25px 25px 0 #0000000C;
   }
@@ -32,12 +31,15 @@
     border-radius: 10px;
     margin: 0;
   }
+  .card-image img {
+    display: block;
+  }
   .card-content {
     margin: 0px 16px 0px 16px;
+    padding-top: 24px;
   }
   .card-content > h1 {
     color: #1f314f;
-    margin-top: 24px;
     font-size: 22px;
     text-align: center;
     line-height: 1.2;
